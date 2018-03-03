@@ -1,4 +1,4 @@
-package com.a16pxdesign.tincard.tincard;
+package com.aleksyruszala.tincard;
 
 import org.junit.Test;
 

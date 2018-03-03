@@ -1,7 +1,9 @@
-package com.a16pxdesign.tincard.tincard;
+package com.aleksyruszala.tincard;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+
+import com.aleksyruszala.tincard.R;
 
 public class MainActivity extends AppCompatActivity {
 

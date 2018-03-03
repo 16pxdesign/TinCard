@@ -1,4 +1,4 @@
-package com.a16pxdesign.tincard.tincard;
+package com.aleksyruszala.tincard;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.a16pxdesign.tincard.tincard", appContext.getPackageName());
+        assertEquals("com.aleksyruszala.tincard", appContext.getPackageName());
     }
 }
